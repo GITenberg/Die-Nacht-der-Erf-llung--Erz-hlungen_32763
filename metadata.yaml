@@ -1,0 +1,40 @@
+_repo: Die-Nacht-der-Erf-llung--Erz-hlungen_32763
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Meyer-Franck, Helene
+    alias: Meyer, Helene Franck
+    birthdate: 1873
+    gutenberg_agent_id: '36034'
+    url: http://www.gutenberg.org/2009/agents/36034
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32763'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Bengali -- Translations into German'
+- !lcsh 'Tagore, Rabindranath, 1861-1941 -- Translations into German'
+- !lcc 'PK'
+tableOfContents: Die Nacht der Erfüllung -- Der Sieg -- Maschi -- Das Skelett -- Der
+  Hüter des Erbes -- Die ältere Schwester -- Subha -- Die glückverheißende Schau --
+  Der Postmeister -- Die Flußtreppe -- Der Ausgestoßene -- Das Kartenkönigreich.
+title: 'Die Nacht der Erfüllung: Erzählungen'
+url: http://www.gutenberg.org/ebooks/32763
